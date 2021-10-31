@@ -1,0 +1,38 @@
+PDB: 1eej.pdb cut off distance: 2.5 
+
+list of S atoms of all CYS residues:
+CYS A 98.SG
+CYS A 101.SG
+CYS A 141.SG
+CYS A 163.SG
+CYS B 98.SG
+CYS B 101.SG
+CYS B 141.SG
+CYS B 163.SG
+
+
+Contact :  1
+Atom 1 :  CYS A 98.SG
+Atom 2 : CYS A 101.SG
+distance :  2.0592537
+
+
+Contact :  2
+Atom 1 :  CYS A 141.SG
+Atom 2 : CYS A 163.SG
+distance :  2.0312414
+
+
+Contact :  3
+Atom 1 :  CYS B 98.SG
+Atom 2 : CYS B 101.SG
+distance :  2.0508735
+
+
+Contact :  4
+Atom 1 :  CYS B 141.SG
+Atom 2 : CYS B 163.SG
+distance :  2.0267322
+
+
+Number of disulphide bonds are: 4
