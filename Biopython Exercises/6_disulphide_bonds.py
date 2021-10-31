@@ -54,6 +54,7 @@ if select != []:
 npair = 0
 if select != []:
     nbsearch = NeighborSearch(select)
+    print('Disulphide Bonds\n')
 
     for at1, at2 in nbsearch.search_all(MAXDIST):
         npair += 1
