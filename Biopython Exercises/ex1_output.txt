@@ -1,0 +1,376 @@
+PDB: 1ubq.pdb Cut-off: 3.9
+contact  1 : 
+ A MET.1 CA.2 
+ A GLN.2 CA.10 
+distance: 3.804452 
+
+contact  2 : 
+ A GLN.62 CA.484 
+ A LYS.63 CA.493 
+distance: 3.818763 
+
+contact  3 : 
+ A GLU.18 CA.135 
+ A PRO.19 CA.144 
+distance: 3.8115277 
+
+contact  4 : 
+ A ILE.61 CA.476 
+ A GLN.62 CA.484 
+distance: 3.853616 
+
+contact  5 : 
+ A PRO.19 CA.144 
+ A SER.20 CA.151 
+distance: 3.7951803 
+
+contact  6 : 
+ A ASN.60 CA.468 
+ A ILE.61 CA.476 
+distance: 3.8311315 
+
+contact  7 : 
+ A THR.55 CA.427 
+ A LEU.56 CA.434 
+distance: 3.8278413 
+
+contact  8 : 
+ A ARG.54 CA.416 
+ A THR.55 CA.427 
+distance: 3.8260334 
+
+contact  9 : 
+ A ASP.58 CA.448 
+ A TYR.59 CA.456 
+distance: 3.7988682 
+
+contact  10 : 
+ A LEU.50 CA.387 
+ A GLU.51 CA.395 
+distance: 3.8239238 
+
+contact  11 : 
+ A GLN.49 CA.378 
+ A LEU.50 CA.387 
+distance: 3.8250349 
+
+contact  12 : 
+ A LYS.48 CA.369 
+ A GLN.49 CA.378 
+distance: 3.833835 
+
+contact  13 : 
+ A LEU.56 CA.434 
+ A SER.57 CA.442 
+distance: 3.8217509 
+
+contact  14 : 
+ A SER.57 CA.442 
+ A ASP.58 CA.448 
+distance: 3.8214247 
+
+contact  15 : 
+ A TYR.59 CA.456 
+ A ASN.60 CA.468 
+distance: 3.8305233 
+
+contact  16 : 
+ A GLU.64 CA.502 
+ A SER.65 CA.511 
+distance: 3.7834327 
+
+contact  17 : 
+ A ILE.3 CA.19 
+ A PHE.4 CA.27 
+distance: 3.8195877 
+
+contact  18 : 
+ A PHE.4 CA.27 
+ A VAL.5 CA.38 
+distance: 3.8169844 
+
+contact  19 : 
+ A SER.65 CA.511 
+ A THR.66 CA.517 
+distance: 3.8298004 
+
+contact  20 : 
+ A THR.66 CA.517 
+ A LEU.67 CA.524 
+distance: 3.8240428 
+
+contact  21 : 
+ A VAL.5 CA.38 
+ A LYS.6 CA.45 
+distance: 3.840245 
+
+contact  22 : 
+ A THR.7 CA.54 
+ A LEU.8 CA.61 
+distance: 3.8322713 
+
+contact  23 : 
+ A HIS.68 CA.532 
+ A LEU.69 CA.542 
+distance: 3.8091009 
+
+contact  24 : 
+ A PHE.45 CA.349 
+ A ALA.46 CA.360 
+distance: 3.7922342 
+
+contact  25 : 
+ A ILE.44 CA.341 
+ A PHE.45 CA.349 
+distance: 3.8214724 
+
+contact  26 : 
+ A ALA.46 CA.360 
+ A GLY.47 CA.365 
+distance: 3.7732112 
+
+contact  27 : 
+ A LEU.43 CA.333 
+ A ILE.44 CA.341 
+distance: 3.8078089 
+
+contact  28 : 
+ A LYS.6 CA.45 
+ A THR.7 CA.54 
+distance: 3.8118389 
+
+contact  29 : 
+ A LEU.67 CA.524 
+ A HIS.68 CA.532 
+distance: 3.8118398 
+
+contact  30 : 
+ A LYS.63 CA.493 
+ A GLU.64 CA.502 
+distance: 3.7792242 
+
+contact  31 : 
+ A GLN.2 CA.10 
+ A ILE.3 CA.19 
+distance: 3.795576 
+
+contact  32 : 
+ A GLY.47 CA.365 
+ A LYS.48 CA.369 
+distance: 3.8016944 
+
+contact  33 : 
+ A GLU.16 CA.119 
+ A VAL.17 CA.128 
+distance: 3.7593288 
+
+contact  34 : 
+ A LEU.15 CA.111 
+ A GLU.16 CA.119 
+distance: 3.7954843 
+
+contact  35 : 
+ A GLN.31 CA.235 
+ A ASP.32 CA.244 
+distance: 3.7934911 
+
+contact  36 : 
+ A ALA.28 CA.213 
+ A LYS.29 CA.218 
+distance: 3.8372087 
+
+contact  37 : 
+ A ASN.25 CA.189 
+ A VAL.26 CA.197 
+distance: 3.7777412 
+
+contact  38 : 
+ A THR.22 CA.165 
+ A ILE.23 CA.172 
+distance: 3.7939472 
+
+contact  39 : 
+ A ILE.23 CA.172 
+ A GLU.24 CA.180 
+distance: 3.8294358 
+
+contact  40 : 
+ A ASP.52 CA.404 
+ A GLY.53 CA.412 
+distance: 3.834791 
+
+contact  41 : 
+ A PRO.38 CA.289 
+ A ASP.39 CA.296 
+distance: 3.814184 
+
+contact  42 : 
+ A ASP.21 CA.157 
+ A THR.22 CA.165 
+distance: 3.7684438 
+
+contact  43 : 
+ A VAL.26 CA.197 
+ A LYS.27 CA.204 
+distance: 3.8053198 
+
+contact  44 : 
+ A GLU.24 CA.180 
+ A ASN.25 CA.189 
+distance: 3.8147743 
+
+contact  45 : 
+ A LYS.27 CA.204 
+ A ALA.28 CA.213 
+distance: 3.8186443 
+
+contact  46 : 
+ A ILE.13 CA.96 
+ A THR.14 CA.104 
+distance: 3.789084 
+
+contact  47 : 
+ A LYS.33 CA.252 
+ A GLU.34 CA.261 
+distance: 3.8203611 
+
+contact  48 : 
+ A GLU.34 CA.261 
+ A GLY.35 CA.270 
+distance: 3.7844076 
+
+contact  49 : 
+ A GLY.35 CA.270 
+ A ILE.36 CA.274 
+distance: 3.7775733 
+
+contact  50 : 
+ A ILE.36 CA.274 
+ A PRO.37 CA.282 
+distance: 3.8293164 
+
+contact  51 : 
+ A GLN.40 CA.304 
+ A GLN.41 CA.313 
+distance: 3.8201787 
+
+contact  52 : 
+ A VAL.70 CA.550 
+ A LEU.71 CA.557 
+distance: 3.8308768 
+
+contact  53 : 
+ A LEU.71 CA.557 
+ A ARG.72 CA.565 
+distance: 3.7920017 
+
+contact  54 : 
+ A ARG.72 CA.565 
+ A LEU.73 CA.576 
+distance: 3.8310947 
+
+contact  55 : 
+ A LEU.73 CA.576 
+ A ARG.74 CA.584 
+distance: 3.79109 
+
+contact  56 : 
+ A ARG.74 CA.584 
+ A GLY.75 CA.595 
+distance: 3.7968125 
+
+contact  57 : 
+ A GLY.75 CA.595 
+ A GLY.76 CA.599 
+distance: 3.7942746 
+
+contact  58 : 
+ A THR.14 CA.104 
+ A LEU.15 CA.111 
+distance: 3.7966552 
+
+contact  59 : 
+ A ASP.32 CA.244 
+ A LYS.33 CA.252 
+distance: 3.8038118 
+
+contact  60 : 
+ A LYS.29 CA.218 
+ A ILE.30 CA.227 
+distance: 3.8160408 
+
+contact  61 : 
+ A ILE.30 CA.227 
+ A GLN.31 CA.235 
+distance: 3.8317358 
+
+contact  62 : 
+ A PRO.37 CA.282 
+ A PRO.38 CA.289 
+distance: 3.812624 
+
+contact  63 : 
+ A GLN.41 CA.313 
+ A ARG.42 CA.322 
+distance: 3.8110101 
+
+contact  64 : 
+ A ASP.39 CA.296 
+ A GLN.40 CA.304 
+distance: 3.8117433 
+
+contact  65 : 
+ A VAL.17 CA.128 
+ A GLU.18 CA.135 
+distance: 3.7789938 
+
+contact  66 : 
+ A SER.20 CA.151 
+ A ASP.21 CA.157 
+distance: 3.7961562 
+
+contact  67 : 
+ A GLY.53 CA.412 
+ A ARG.54 CA.416 
+distance: 3.8208039 
+
+contact  68 : 
+ A GLU.51 CA.395 
+ A ASP.52 CA.404 
+distance: 3.8293946 
+
+contact  69 : 
+ A ARG.42 CA.322 
+ A LEU.43 CA.333 
+distance: 3.843861 
+
+contact  70 : 
+ A THR.12 CA.89 
+ A ILE.13 CA.96 
+distance: 3.7925675 
+
+contact  71 : 
+ A LYS.11 CA.80 
+ A THR.12 CA.89 
+distance: 3.806173 
+
+contact  72 : 
+ A GLY.10 CA.76 
+ A LYS.11 CA.80 
+distance: 3.7683513 
+
+contact  73 : 
+ A THR.9 CA.69 
+ A GLY.10 CA.76 
+distance: 3.7734807 
+
+contact  74 : 
+ A LEU.8 CA.61 
+ A THR.9 CA.69 
+distance: 3.8177495 
+
+contact  75 : 
+ A LEU.69 CA.542 
+ A VAL.70 CA.550 
+distance: 3.8111525 
+

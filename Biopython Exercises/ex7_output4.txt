@@ -1,0 +1,254 @@
+PDB: 2ki5.pdb 
+Chain_1 A , res 1: 367 
+Chain_2 B , res 2: 300
+
+Residue 367 of Chain A is THR 
+Residue 300 of Chain B is PRO 
+
+Distance between all atom pairs of given two residues is as follows: 
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.N
+Distance :  16.430029
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.CA
+Distance :  17.581148
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.C
+Distance :  17.795536
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.O
+Distance :  18.943336
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.CB
+Distance :  17.435629
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.CG
+Distance :  16.92149
+
+
+Atom 1 :  THR A 367.N
+Atom 2 :  PRO B 300.CD
+Distance :  15.820079
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.N
+Distance :  15.0393915
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.CA
+Distance :  16.20942
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.C
+Distance :  16.427511
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.O
+Distance :  17.579916
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.CB
+Distance :  16.11119
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.CG
+Distance :  15.599622
+
+
+Atom 1 :  THR A 367.CA
+Atom 2 :  PRO B 300.CD
+Distance :  14.460961
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.N
+Distance :  14.625899
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.CA
+Distance :  15.857735
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.C
+Distance :  16.2106
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.O
+Distance :  17.392883
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.CB
+Distance :  15.750172
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.CG
+Distance :  15.111899
+
+
+Atom 1 :  THR A 367.C
+Atom 2 :  PRO B 300.CD
+Distance :  13.966334
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.N
+Distance :  13.544924
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.CA
+Distance :  14.779475
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.C
+Distance :  15.18762
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.O
+Distance :  16.379541
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.CB
+Distance :  14.639995
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.CG
+Distance :  13.964201
+
+
+Atom 1 :  THR A 367.O
+Atom 2 :  PRO B 300.CD
+Distance :  12.838075
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.N
+Distance :  14.985488
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.CA
+Distance :  16.175032
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.C
+Distance :  16.306446
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.O
+Distance :  17.437786
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.CB
+Distance :  16.217285
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.CG
+Distance :  15.772188
+
+
+Atom 1 :  THR A 367.CB
+Atom 2 :  PRO B 300.CD
+Distance :  14.5459385
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.N
+Distance :  15.519951
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.CA
+Distance :  16.641426
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.C
+Distance :  16.64952
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.O
+Distance :  17.742443
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.CB
+Distance :  16.690908
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.CG
+Distance :  16.361052
+
+
+Atom 1 :  THR A 367.OG1
+Atom 2 :  PRO B 300.CD
+Distance :  15.154874
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.N
+Distance :  13.613545
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.CA
+Distance :  14.826829
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.C
+Distance :  14.95901
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.O
+Distance :  16.091
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.CB
+Distance :  14.942647
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.CG
+Distance :  14.504477
+
+
+Atom 1 :  THR A 367.CG2
+Atom 2 :  PRO B 300.CD
+Distance :  13.229671
+
+

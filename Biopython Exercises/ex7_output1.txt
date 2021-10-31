@@ -1,0 +1,249 @@
+PDB: 1ubq.pdb 
+Chain_1 A , res 1: 20 
+Chain_2 A , res 2: 30
+
+Residue 20 of Chain A is SER 
+Residue 30 of Chain A is ILE 
+
+Distance between all atom pairs of given two residues is as follows: 
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.N
+Distance :  15.105884
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.CA
+Distance :  16.233595
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.C
+Distance :  17.500628
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.O
+Distance :  18.571705
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.CB
+Distance :  16.17031
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.CG1
+Distance :  15.177863
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.CG2
+Distance :  17.577072
+
+
+Atom 1 :  SER A 20.N
+Atom 2 :  ILE A 30.CD1
+Distance :  15.112082
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.N
+Distance :  15.418484
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.CA
+Distance :  16.605413
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.C
+Distance :  17.801405
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.O
+Distance :  18.917788
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.CB
+Distance :  16.55471
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.CG1
+Distance :  15.6621895
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.CG2
+Distance :  17.98459
+
+
+Atom 1 :  SER A 20.CA
+Atom 2 :  ILE A 30.CD1
+Distance :  15.579841
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.N
+Distance :  14.226489
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.CA
+Distance :  15.444809
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.C
+Distance :  16.589962
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.O
+Distance :  17.7332
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.CB
+Distance :  15.405451
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.CG1
+Distance :  14.595631
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.CG2
+Distance :  16.84953
+
+
+Atom 1 :  SER A 20.C
+Atom 2 :  ILE A 30.CD1
+Distance :  14.523976
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.N
+Distance :  14.525007
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.CA
+Distance :  15.780487
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.C
+Distance :  16.851347
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.O
+Distance :  18.025162
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.CB
+Distance :  15.750768
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.CG1
+Distance :  15.0379715
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.CG2
+Distance :  17.200434
+
+
+Atom 1 :  SER A 20.O
+Atom 2 :  ILE A 30.CD1
+Distance :  14.952491
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.N
+Distance :  16.217075
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.CA
+Distance :  17.460014
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.C
+Distance :  18.611269
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.O
+Distance :  19.72145
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.CB
+Distance :  17.519575
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.CG1
+Distance :  16.681482
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.CG2
+Distance :  18.983763
+
+
+Atom 1 :  SER A 20.CB
+Atom 2 :  ILE A 30.CD1
+Distance :  16.699217
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.N
+Distance :  15.845646
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.CA
+Distance :  17.098583
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.C
+Distance :  18.253946
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.O
+Distance :  19.32483
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.CB
+Distance :  17.25903
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.CG1
+Distance :  16.415287
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.CG2
+Distance :  18.740185
+
+
+Atom 1 :  SER A 20.OG
+Atom 2 :  ILE A 30.CD1
+Distance :  16.553125
+
+

@@ -1,0 +1,14 @@
+PDB: 2ki5.pdb cut off distance: 2.5 
+
+list of S atoms of all CYS residues:
+CYS A 171.SG
+CYS A 251.SG
+CYS A 336.SG
+CYS A 362.SG
+CYS B 171.SG
+CYS B 251.SG
+CYS B 336.SG
+CYS B 362.SG
+
+
+There are no S atoms around the distance 2.5 in any two Cystine residues so no disulphide bonds exist

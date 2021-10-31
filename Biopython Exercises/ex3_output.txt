@@ -1,0 +1,2152 @@
+PDB: 1ubq.pdb Cut-off: 3.5 
+
+H_bond  1 :
+ SER A 57.N 
+ SER A 57.OG 
+Distance :  2.898551 
+
+H_bond  2 :
+ HOH A 113.O 
+ HOH A 130.O 
+Distance :  2.5957546 
+
+H_bond  3 :
+ ILE A 61.O 
+ GLN A 62.N 
+Distance :  2.290604 
+
+H_bond  4 :
+ GLN A 62.NE2 
+ HOH A 87.O 
+Distance :  3.4769127 
+
+H_bond  5 :
+ LYS A 63.N 
+ HOH A 87.O 
+Distance :  3.109928 
+
+H_bond  6 :
+ GLN A 62.N 
+ GLN A 62.O 
+Distance :  2.6709638 
+
+H_bond  7 :
+ GLN A 62.O 
+ LYS A 63.N 
+Distance :  2.2592545 
+
+H_bond  8 :
+ ILE A 61.O 
+ HOH A 81.O 
+Distance :  2.7813196 
+
+H_bond  9 :
+ ILE A 61.N 
+ ILE A 61.O 
+Distance :  2.8184412 
+
+H_bond  10 :
+ ASN A 60.O 
+ ILE A 61.N 
+Distance :  2.2413106 
+
+H_bond  11 :
+ ILE A 61.N 
+ GLN A 62.N 
+Distance :  3.378225 
+
+H_bond  12 :
+ GLN A 62.OE1 
+ GLN A 62.NE2 
+Distance :  2.2240489 
+
+H_bond  13 :
+ SER A 20.O 
+ HOH A 85.O 
+Distance :  2.9126365 
+
+H_bond  14 :
+ SER A 20.OG 
+ HOH A 83.O 
+Distance :  2.6791945 
+
+H_bond  15 :
+ SER A 20.N 
+ SER A 20.OG 
+Distance :  2.709037 
+
+H_bond  16 :
+ SER A 20.O 
+ ASP A 21.N 
+Distance :  2.2842362 
+
+H_bond  17 :
+ PRO A 19.O 
+ SER A 20.N 
+Distance :  2.2343042 
+
+H_bond  18 :
+ SER A 20.N 
+ ASP A 21.N 
+Distance :  2.6511526 
+
+H_bond  19 :
+ PRO A 19.N 
+ SER A 20.N 
+Distance :  2.7149153 
+
+H_bond  20 :
+ PRO A 19.O 
+ ASP A 21.N 
+Distance :  3.3266153 
+
+H_bond  21 :
+ GLU A 18.N 
+ GLU A 18.O 
+Distance :  2.7033 
+
+H_bond  22 :
+ MET A 1.N 
+ HOH A 98.O 
+Distance :  3.0218542 
+
+H_bond  23 :
+ VAL A 17.O 
+ GLU A 18.N 
+Distance :  2.2871108 
+
+H_bond  24 :
+ MET A 1.N 
+ VAL A 17.O 
+Distance :  2.5643384 
+
+H_bond  25 :
+ MET A 1.O 
+ VAL A 17.O 
+Distance :  3.0353565 
+
+H_bond  26 :
+ MET A 1.N 
+ HOH A 110.O 
+Distance :  2.3725796 
+
+H_bond  27 :
+ MET A 1.N 
+ MET A 1.O 
+Distance :  2.6740236 
+
+H_bond  28 :
+ GLU A 18.O 
+ SER A 20.N 
+Distance :  2.9316497 
+
+H_bond  29 :
+ GLU A 18.O 
+ ASP A 21.N 
+Distance :  2.7898295 
+
+H_bond  30 :
+ GLU A 18.OE1 
+ GLU A 18.OE2 
+Distance :  2.1350467 
+
+H_bond  31 :
+ GLU A 18.OE1 
+ HOH A 98.O 
+Distance :  2.4958057 
+
+H_bond  32 :
+ GLU A 18.O 
+ PRO A 19.N 
+Distance :  2.2197742 
+
+H_bond  33 :
+ PRO A 19.O 
+ SER A 57.OG 
+Distance :  3.4814143 
+
+H_bond  34 :
+ PRO A 19.O 
+ SER A 57.N 
+Distance :  2.8402436 
+
+H_bond  35 :
+ HOH A 97.O 
+ HOH A 98.O 
+Distance :  2.579728 
+
+H_bond  36 :
+ ASP A 58.OD2 
+ HOH A 95.O 
+Distance :  3.1020713 
+
+H_bond  37 :
+ ASP A 58.OD1 
+ ASP A 58.OD2 
+Distance :  2.2363038 
+
+H_bond  38 :
+ ASP A 58.N 
+ ASP A 58.OD2 
+Distance :  3.3409803 
+
+H_bond  39 :
+ SER A 57.O 
+ ASP A 58.N 
+Distance :  2.2705996 
+
+H_bond  40 :
+ ASP A 58.N 
+ TYR A 59.N 
+Distance :  2.7564278 
+
+H_bond  41 :
+ SER A 57.O 
+ TYR A 59.N 
+Distance :  3.1580358 
+
+H_bond  42 :
+ SER A 57.O 
+ ASN A 60.N 
+Distance :  2.8793712 
+
+H_bond  43 :
+ ASP A 58.O 
+ TYR A 59.N 
+Distance :  2.2150693 
+
+H_bond  44 :
+ TYR A 59.N 
+ ASN A 60.N 
+Distance :  2.7826693 
+
+H_bond  45 :
+ TYR A 59.O 
+ HOH A 100.O 
+Distance :  2.9366753 
+
+H_bond  46 :
+ LYS A 48.NZ 
+ HOH A 100.O 
+Distance :  3.336979 
+
+H_bond  47 :
+ GLN A 49.N 
+ GLN A 49.O 
+Distance :  2.7056234 
+
+H_bond  48 :
+ LEU A 56.O 
+ ASP A 58.N 
+Distance :  3.1599658 
+
+H_bond  49 :
+ LEU A 56.O 
+ TYR A 59.N 
+Distance :  3.1049159 
+
+H_bond  50 :
+ LEU A 56.O 
+ ASN A 60.N 
+Distance :  3.3499744 
+
+H_bond  51 :
+ TYR A 59.O 
+ ASN A 60.N 
+Distance :  2.2278106 
+
+H_bond  52 :
+ ARG A 54.NH1 
+ ARG A 54.NH2 
+Distance :  2.2778316 
+
+H_bond  53 :
+ ARG A 54.NE 
+ ARG A 54.NH1 
+Distance :  2.329159 
+
+H_bond  54 :
+ ARG A 54.NE 
+ ARG A 54.NH2 
+Distance :  2.273436 
+
+H_bond  55 :
+ THR A 55.N 
+ THR A 55.OG1 
+Distance :  2.7999988 
+
+H_bond  56 :
+ THR A 55.O 
+ THR A 55.OG1 
+Distance :  3.1143959 
+
+H_bond  57 :
+ ARG A 54.N 
+ ARG A 54.O 
+Distance :  2.6672182 
+
+H_bond  58 :
+ ARG A 54.O 
+ THR A 55.N 
+Distance :  2.2456539 
+
+H_bond  59 :
+ THR A 55.N 
+ THR A 55.O 
+Distance :  2.6353936 
+
+H_bond  60 :
+ ASP A 21.O 
+ LEU A 56.N 
+Distance :  2.9848118 
+
+H_bond  61 :
+ GLU A 51.N 
+ GLU A 51.O 
+Distance :  2.7562635 
+
+H_bond  62 :
+ LEU A 50.O 
+ GLU A 51.N 
+Distance :  2.2609644 
+
+H_bond  63 :
+ LEU A 50.N 
+ LEU A 50.O 
+Distance :  2.751175 
+
+H_bond  64 :
+ GLU A 51.O 
+ ARG A 54.N 
+Distance :  3.2806687 
+
+H_bond  65 :
+ GLU A 51.OE1 
+ GLU A 51.OE2 
+Distance :  2.218734 
+
+H_bond  66 :
+ THR A 55.O 
+ LEU A 56.N 
+Distance :  2.2477717 
+
+H_bond  67 :
+ THR A 55.OG1 
+ ASP A 58.OD2 
+Distance :  3.4713778 
+
+H_bond  68 :
+ THR A 55.OG1 
+ ASP A 58.OD1 
+Distance :  3.375218 
+
+H_bond  69 :
+ THR A 55.OG1 
+ ASP A 58.N 
+Distance :  3.2629864 
+
+H_bond  70 :
+ THR A 55.N 
+ ASP A 58.OD1 
+Distance :  3.0867586 
+
+H_bond  71 :
+ THR A 55.O 
+ ASP A 58.N 
+Distance :  3.107874 
+
+H_bond  72 :
+ THR A 55.O 
+ LEU A 56.O 
+Distance :  3.4315815 
+
+H_bond  73 :
+ GLU A 51.OE2 
+ HOH A 111.O 
+Distance :  2.717811 
+
+H_bond  74 :
+ LEU A 56.N 
+ LEU A 56.O 
+Distance :  3.43802 
+
+H_bond  75 :
+ GLU A 51.N 
+ TYR A 59.OH 
+Distance :  2.9630733 
+
+H_bond  76 :
+ GLN A 49.O 
+ LEU A 50.N 
+Distance :  2.2642043 
+
+H_bond  77 :
+ GLN A 49.N 
+ LEU A 50.N 
+Distance :  3.439767 
+
+H_bond  78 :
+ SER A 57.OG 
+ HOH A 95.O 
+Distance :  2.6683173 
+
+H_bond  79 :
+ SER A 57.OG 
+ ASP A 58.N 
+Distance :  3.1881185 
+
+H_bond  80 :
+ SER A 57.N 
+ ASP A 58.N 
+Distance :  2.7594333 
+
+H_bond  81 :
+ ASN A 60.N 
+ ILE A 61.N 
+Distance :  2.837445 
+
+H_bond  82 :
+ LEU A 56.O 
+ SER A 57.N 
+Distance :  2.253218 
+
+H_bond  83 :
+ ASN A 60.OD1 
+ ASN A 60.ND2 
+Distance :  2.2522857 
+
+H_bond  84 :
+ LEU A 56.O 
+ ILE A 61.N 
+Distance :  3.4179153 
+
+H_bond  85 :
+ TYR A 59.O 
+ ILE A 61.N 
+Distance :  3.309834 
+
+H_bond  86 :
+ TYR A 59.O 
+ ASN A 60.O 
+Distance :  3.314429 
+
+H_bond  87 :
+ ASN A 60.O 
+ HOH A 106.O 
+Distance :  3.413441 
+
+H_bond  88 :
+ THR A 55.OG1 
+ SER A 57.OG 
+Distance :  2.9576578 
+
+H_bond  89 :
+ THR A 55.O 
+ SER A 57.N 
+Distance :  3.338542 
+
+H_bond  90 :
+ LEU A 56.N 
+ SER A 57.N 
+Distance :  2.7330105 
+
+H_bond  91 :
+ PRO A 19.O 
+ LEU A 56.N 
+Distance :  3.3056736 
+
+H_bond  92 :
+ ASP A 21.N 
+ ASP A 21.O 
+Distance :  2.781253 
+
+H_bond  93 :
+ SER A 65.OG 
+ HOH A 101.O 
+Distance :  2.6453156 
+
+H_bond  94 :
+ GLU A 64.OE2 
+ HOH A 86.O 
+Distance :  2.9993029 
+
+H_bond  95 :
+ SER A 65.N 
+ SER A 65.OG 
+Distance :  2.9520314 
+
+H_bond  96 :
+ LYS A 63.O 
+ GLU A 64.N 
+Distance :  2.2643447 
+
+H_bond  97 :
+ LYS A 63.O 
+ SER A 65.N 
+Distance :  3.3051803 
+
+H_bond  98 :
+ GLU A 64.N 
+ SER A 65.N 
+Distance :  2.7616415 
+
+H_bond  99 :
+ GLU A 64.OE1 
+ GLU A 64.OE2 
+Distance :  2.2050517 
+
+H_bond  100 :
+ SER A 65.O 
+ THR A 66.N 
+Distance :  2.2228184 
+
+H_bond  101 :
+ GLU A 64.O 
+ SER A 65.O 
+Distance :  3.3204358 
+
+H_bond  102 :
+ THR A 66.N 
+ THR A 66.O 
+Distance :  2.810235 
+
+H_bond  103 :
+ THR A 66.N 
+ THR A 66.OG1 
+Distance :  2.9026034 
+
+H_bond  104 :
+ THR A 66.O 
+ HOH A 84.O 
+Distance :  2.7885733 
+
+H_bond  105 :
+ SER A 65.N 
+ SER A 65.O 
+Distance :  2.6726694 
+
+H_bond  106 :
+ GLU A 64.O 
+ SER A 65.N 
+Distance :  2.2628982 
+
+H_bond  107 :
+ GLU A 64.OE1 
+ HOH A 109.O 
+Distance :  3.1338007 
+
+H_bond  108 :
+ GLN A 2.N 
+ GLN A 2.O 
+Distance :  2.833125 
+
+H_bond  109 :
+ GLN A 2.O 
+ ILE A 3.N 
+Distance :  2.2632837 
+
+H_bond  110 :
+ ILE A 3.N 
+ LEU A 15.O 
+Distance :  3.0465226 
+
+H_bond  111 :
+ ILE A 3.O 
+ LEU A 15.O 
+Distance :  3.455463 
+
+H_bond  112 :
+ ILE A 3.N 
+ ILE A 3.O 
+Distance :  2.5370224 
+
+H_bond  113 :
+ ILE A 3.O 
+ PHE A 4.N 
+Distance :  2.2984576 
+
+H_bond  114 :
+ PHE A 4.O 
+ LEU A 67.N 
+Distance :  2.819286 
+
+H_bond  115 :
+ PHE A 4.N 
+ PHE A 4.O 
+Distance :  2.7143388 
+
+H_bond  116 :
+ LYS A 6.N 
+ LEU A 67.O 
+Distance :  2.9045024 
+
+H_bond  117 :
+ VAL A 5.N 
+ ILE A 13.O 
+Distance :  2.7924867 
+
+H_bond  118 :
+ VAL A 5.N 
+ LYS A 6.N 
+Distance :  3.3093193 
+
+H_bond  119 :
+ VAL A 5.N 
+ VAL A 5.O 
+Distance :  2.7850344 
+
+H_bond  120 :
+ VAL A 5.O 
+ LYS A 6.N 
+Distance :  2.282222 
+
+H_bond  121 :
+ LEU A 67.N 
+ LEU A 67.O 
+Distance :  2.533827 
+
+H_bond  122 :
+ GLN A 2.OE1 
+ GLN A 2.NE2 
+Distance :  2.26258 
+
+H_bond  123 :
+ PHE A 4.O 
+ VAL A 5.N 
+Distance :  2.2571504 
+
+H_bond  124 :
+ GLN A 2.N 
+ HOH A 86.O 
+Distance :  3.0098581 
+
+H_bond  125 :
+ GLN A 2.O 
+ GLU A 64.N 
+Distance :  2.783109 
+
+H_bond  126 :
+ THR A 66.N 
+ LEU A 67.N 
+Distance :  3.4884727 
+
+H_bond  127 :
+ THR A 66.O 
+ LEU A 67.N 
+Distance :  2.2855666 
+
+H_bond  128 :
+ PHE A 4.N 
+ SER A 65.O 
+Distance :  2.8563075 
+
+H_bond  129 :
+ THR A 12.OG1 
+ HOH A 91.O 
+Distance :  2.8283317 
+
+H_bond  130 :
+ PHE A 45.O 
+ LYS A 48.O 
+Distance :  3.3277524 
+
+H_bond  131 :
+ LYS A 48.N 
+ LYS A 48.O 
+Distance :  2.6945121 
+
+H_bond  132 :
+ PHE A 45.N 
+ LYS A 48.O 
+Distance :  3.0665634 
+
+H_bond  133 :
+ PHE A 45.O 
+ LYS A 48.N 
+Distance :  2.83592 
+
+H_bond  134 :
+ PHE A 45.O 
+ ALA A 46.O 
+Distance :  3.2766984 
+
+H_bond  135 :
+ PHE A 45.N 
+ PHE A 45.O 
+Distance :  2.784185 
+
+H_bond  136 :
+ PHE A 45.O 
+ ALA A 46.N 
+Distance :  2.2574553 
+
+H_bond  137 :
+ PHE A 45.O 
+ GLY A 47.N 
+Distance :  3.041827 
+
+H_bond  138 :
+ ALA A 46.O 
+ LYS A 48.N 
+Distance :  3.2796261 
+
+H_bond  139 :
+ GLY A 47.O 
+ LYS A 48.N 
+Distance :  2.2393763 
+
+H_bond  140 :
+ GLY A 47.N 
+ LYS A 48.N 
+Distance :  2.8211691 
+
+H_bond  141 :
+ ALA A 46.N 
+ ALA A 46.O 
+Distance :  3.4957774 
+
+H_bond  142 :
+ ALA A 46.O 
+ GLY A 47.N 
+Distance :  2.241689 
+
+H_bond  143 :
+ PHE A 45.N 
+ ALA A 46.N 
+Distance :  3.4017084 
+
+H_bond  144 :
+ ALA A 46.N 
+ GLY A 47.N 
+Distance :  2.773837 
+
+H_bond  145 :
+ ILE A 44.O 
+ HIS A 68.N 
+Distance :  2.7939587 
+
+H_bond  146 :
+ HOH A 78.O 
+ HOH A 103.O 
+Distance :  3.2607212 
+
+H_bond  147 :
+ HIS A 68.ND1 
+ HIS A 68.NE2 
+Distance :  2.143141 
+
+H_bond  148 :
+ ILE A 44.O 
+ PHE A 45.N 
+Distance :  2.2636817 
+
+H_bond  149 :
+ ALA A 46.N 
+ HOH A 78.O 
+Distance :  2.9911613 
+
+H_bond  150 :
+ ALA A 46.N 
+ HOH A 103.O 
+Distance :  3.4028945 
+
+H_bond  151 :
+ GLY A 47.N 
+ HOH A 103.O 
+Distance :  2.8276947 
+
+H_bond  152 :
+ ILE A 44.N 
+ ILE A 44.O 
+Distance :  2.9117603 
+
+H_bond  153 :
+ GLN A 49.OE1 
+ GLN A 49.NE2 
+Distance :  2.2807846 
+
+H_bond  154 :
+ LEU A 43.N 
+ LEU A 43.O 
+Distance :  2.8131123 
+
+H_bond  155 :
+ ARG A 42.NE 
+ GLN A 49.NE2 
+Distance :  2.7497354 
+
+H_bond  156 :
+ ARG A 42.O 
+ LEU A 43.N 
+Distance :  2.3175366 
+
+H_bond  157 :
+ ARG A 42.NE 
+ ARG A 42.NH1 
+Distance :  2.351864 
+
+H_bond  158 :
+ ARG A 42.O 
+ HIS A 68.O 
+Distance :  3.491115 
+
+H_bond  159 :
+ HIS A 68.O 
+ LEU A 69.N 
+Distance :  2.2554986 
+
+H_bond  160 :
+ LYS A 6.O 
+ THR A 7.N 
+Distance :  2.2836223 
+
+H_bond  161 :
+ THR A 7.N 
+ THR A 7.O 
+Distance :  2.6242259 
+
+H_bond  162 :
+ THR A 7.O 
+ HOH A 107.O 
+Distance :  2.7179263 
+
+H_bond  163 :
+ THR A 7.O 
+ GLY A 10.N 
+Distance :  3.3714967 
+
+H_bond  164 :
+ GLY A 10.N 
+ HOH A 107.O 
+Distance :  3.0631251 
+
+H_bond  165 :
+ GLY A 10.N 
+ HOH A 133.O 
+Distance :  3.4850168 
+
+H_bond  166 :
+ LEU A 69.N 
+ LEU A 69.O 
+Distance :  2.9163973 
+
+H_bond  167 :
+ LYS A 6.O 
+ LEU A 69.N 
+Distance :  2.928526 
+
+H_bond  168 :
+ LEU A 43.O 
+ ILE A 44.N 
+Distance :  2.279006 
+
+H_bond  169 :
+ ILE A 44.N 
+ HIS A 68.O 
+Distance :  2.790553 
+
+H_bond  170 :
+ ARG A 42.NE 
+ ARG A 42.NH2 
+Distance :  2.3047934 
+
+H_bond  171 :
+ HIS A 68.N 
+ HIS A 68.O 
+Distance :  2.7779882 
+
+H_bond  172 :
+ ARG A 42.NH1 
+ ARG A 42.NH2 
+Distance :  2.2863257 
+
+H_bond  173 :
+ HIS A 68.N 
+ LEU A 69.N 
+Distance :  3.496331 
+
+H_bond  174 :
+ LEU A 8.O 
+ HOH A 92.O 
+Distance :  3.0656316 
+
+H_bond  175 :
+ HOH A 78.O 
+ HOH A 84.O 
+Distance :  2.5632918 
+
+H_bond  176 :
+ LYS A 6.NZ 
+ HOH A 112.O 
+Distance :  3.3783245 
+
+H_bond  177 :
+ LEU A 67.O 
+ HIS A 68.N 
+Distance :  2.265333 
+
+H_bond  178 :
+ LYS A 6.N 
+ LYS A 6.O 
+Distance :  2.8517845 
+
+H_bond  179 :
+ GLN A 62.N 
+ HOH A 101.O 
+Distance :  3.2713912 
+
+H_bond  180 :
+ GLN A 62.N 
+ SER A 65.OG 
+Distance :  3.2295978 
+
+H_bond  181 :
+ GLN A 62.O 
+ SER A 65.OG 
+Distance :  2.5088904 
+
+H_bond  182 :
+ LYS A 63.N 
+ LYS A 63.O 
+Distance :  2.781306 
+
+H_bond  183 :
+ GLN A 62.O 
+ LYS A 63.O 
+Distance :  3.0377636 
+
+H_bond  184 :
+ GLN A 62.O 
+ GLU A 64.N 
+Distance :  3.4379468 
+
+H_bond  185 :
+ GLN A 62.O 
+ SER A 65.N 
+Distance :  3.2283602 
+
+H_bond  186 :
+ MET A 1.O 
+ GLN A 2.N 
+Distance :  2.263599 
+
+H_bond  187 :
+ HOH A 101.O 
+ HOH A 106.O 
+Distance :  3.2878346 
+
+H_bond  188 :
+ LYS A 48.O 
+ GLN A 49.N 
+Distance :  2.231898 
+
+H_bond  189 :
+ ALA A 46.O 
+ LYS A 48.NZ 
+Distance :  3.3787446 
+
+H_bond  190 :
+ LEU A 43.O 
+ LEU A 50.N 
+Distance :  2.8294609 
+
+H_bond  191 :
+ ASP A 21.OD1 
+ HOH A 127.O 
+Distance :  2.7080991 
+
+H_bond  192 :
+ THR A 22.N 
+ THR A 22.OG1 
+Distance :  2.819845 
+
+H_bond  193 :
+ THR A 22.O 
+ THR A 22.OG1 
+Distance :  3.108918 
+
+H_bond  194 :
+ THR A 22.N 
+ THR A 22.O 
+Distance :  2.6608095 
+
+H_bond  195 :
+ ASP A 21.OD1 
+ ASP A 21.OD2 
+Distance :  2.1863105 
+
+H_bond  196 :
+ ASP A 21.OD1 
+ ASN A 25.ND2 
+Distance :  3.410916 
+
+H_bond  197 :
+ ASP A 21.OD2 
+ ASN A 25.ND2 
+Distance :  3.41052 
+
+H_bond  198 :
+ VAL A 26.N 
+ LYS A 27.N 
+Distance :  2.7801187 
+
+H_bond  199 :
+ GLU A 16.O 
+ VAL A 17.N 
+Distance :  2.2932563 
+
+H_bond  200 :
+ GLU A 16.N 
+ VAL A 17.N 
+Distance :  3.334033 
+
+H_bond  201 :
+ GLU A 16.N 
+ GLU A 16.O 
+Distance :  2.7341478 
+
+H_bond  202 :
+ GLU A 16.OE1 
+ GLU A 16.OE2 
+Distance :  2.2039716 
+
+H_bond  203 :
+ GLU A 16.N 
+ HOH A 88.O 
+Distance :  2.9735487 
+
+H_bond  204 :
+ HOH A 99.O 
+ HOH A 116.O 
+Distance :  2.8849547 
+
+H_bond  205 :
+ THR A 22.O 
+ VAL A 26.N 
+Distance :  3.1165333 
+
+H_bond  206 :
+ ASP A 21.OD2 
+ HOH A 99.O 
+Distance :  2.839018 
+
+H_bond  207 :
+ ASN A 25.O 
+ ASN A 25.OD1 
+Distance :  3.069899 
+
+H_bond  208 :
+ HOH A 121.O 
+ HOH A 128.O 
+Distance :  2.1121836 
+
+H_bond  209 :
+ ASN A 25.O 
+ ALA A 28.N 
+Distance :  3.1196294 
+
+H_bond  210 :
+ HOH A 94.O 
+ HOH A 128.O 
+Distance :  3.2428935 
+
+H_bond  211 :
+ VAL A 26.O 
+ LYS A 29.N 
+Distance :  3.060194 
+
+H_bond  212 :
+ ALA A 28.O 
+ LYS A 29.N 
+Distance :  2.2587495 
+
+H_bond  213 :
+ LYS A 29.N 
+ ILE A 30.N 
+Distance :  2.7717216 
+
+H_bond  214 :
+ VAL A 26.O 
+ LYS A 27.O 
+Distance :  3.4979515 
+
+H_bond  215 :
+ VAL A 26.O 
+ ILE A 30.N 
+Distance :  2.9758008 
+
+H_bond  216 :
+ ALA A 28.O 
+ ILE A 30.N 
+Distance :  3.4210577 
+
+H_bond  217 :
+ ALA A 28.O 
+ ASP A 32.N 
+Distance :  2.8658245 
+
+H_bond  218 :
+ LYS A 27.O 
+ ILE A 30.N 
+Distance :  3.3076344 
+
+H_bond  219 :
+ ASP A 32.OD1 
+ ASP A 32.OD2 
+Distance :  2.2605124 
+
+H_bond  220 :
+ LYS A 29.O 
+ ILE A 30.N 
+Distance :  2.258359 
+
+H_bond  221 :
+ LYS A 29.O 
+ ASP A 32.N 
+Distance :  3.3610997 
+
+H_bond  222 :
+ ASN A 25.O 
+ LYS A 29.N 
+Distance :  2.932063 
+
+H_bond  223 :
+ ASN A 25.O 
+ VAL A 26.O 
+Distance :  3.2959766 
+
+H_bond  224 :
+ ALA A 28.N 
+ LYS A 29.N 
+Distance :  2.823043 
+
+H_bond  225 :
+ VAL A 26.O 
+ ALA A 28.N 
+Distance :  3.292773 
+
+H_bond  226 :
+ LYS A 27.O 
+ ALA A 28.N 
+Distance :  2.2622192 
+
+H_bond  227 :
+ ALA A 28.O 
+ HOH A 94.O 
+Distance :  2.9298809 
+
+H_bond  228 :
+ ASN A 25.OD1 
+ ASN A 25.ND2 
+Distance :  2.2735567 
+
+H_bond  229 :
+ THR A 22.OG1 
+ ASN A 25.N 
+Distance :  3.1932526 
+
+H_bond  230 :
+ THR A 22.O 
+ ASN A 25.N 
+Distance :  3.101607 
+
+H_bond  231 :
+ ASN A 25.N 
+ VAL A 26.N 
+Distance :  2.7881553 
+
+H_bond  232 :
+ ASN A 25.O 
+ VAL A 26.N 
+Distance :  2.2831717 
+
+H_bond  233 :
+ ASN A 25.O 
+ LYS A 27.N 
+Distance :  3.3988314 
+
+H_bond  234 :
+ LYS A 29.NZ 
+ HOH A 99.O 
+Distance :  3.430313 
+
+H_bond  235 :
+ GLU A 16.O 
+ LYS A 29.NZ 
+Distance :  2.6763434 
+
+H_bond  236 :
+ LYS A 27.N 
+ ALA A 28.N 
+Distance :  2.7918358 
+
+H_bond  237 :
+ VAL A 26.N 
+ VAL A 26.O 
+Distance :  3.4613645 
+
+H_bond  238 :
+ VAL A 26.O 
+ LYS A 27.N 
+Distance :  2.2527227 
+
+H_bond  239 :
+ GLY A 53.O 
+ HOH A 118.O 
+Distance :  2.963958 
+
+H_bond  240 :
+ ASP A 52.O 
+ HOH A 102.O 
+Distance :  3.0947385 
+
+H_bond  241 :
+ GLY A 53.N 
+ HOH A 125.O 
+Distance :  2.7716656 
+
+H_bond  242 :
+ ASP A 52.N 
+ HOH A 125.O 
+Distance :  3.3036716 
+
+H_bond  243 :
+ ASP A 52.O 
+ GLY A 53.N 
+Distance :  2.2689068 
+
+H_bond  244 :
+ ASP A 52.N 
+ GLY A 53.N 
+Distance :  3.0078135 
+
+H_bond  245 :
+ ILE A 23.N 
+ ASP A 52.O 
+Distance :  3.4238605 
+
+H_bond  246 :
+ GLU A 24.N 
+ ASP A 52.O 
+Distance :  2.910214 
+
+H_bond  247 :
+ ILE A 23.N 
+ GLU A 24.N 
+Distance :  2.74898 
+
+H_bond  248 :
+ ASP A 52.OD1 
+ ASP A 52.OD2 
+Distance :  2.1579127 
+
+H_bond  249 :
+ LYS A 27.NZ 
+ ASP A 52.OD2 
+Distance :  2.902148 
+
+H_bond  250 :
+ LYS A 27.NZ 
+ HOH A 104.O 
+Distance :  3.36296 
+
+H_bond  251 :
+ LYS A 27.NZ 
+ GLN A 41.O 
+Distance :  3.2446327 
+
+H_bond  252 :
+ ARG A 72.NH1 
+ ARG A 72.NH2 
+Distance :  2.323431 
+
+H_bond  253 :
+ GLN A 41.O 
+ ARG A 72.NH2 
+Distance :  3.0103197 
+
+H_bond  254 :
+ ASP A 52.N 
+ ASP A 52.OD2 
+Distance :  3.1074924 
+
+H_bond  255 :
+ ILE A 23.O 
+ GLU A 24.N 
+Distance :  2.229187 
+
+H_bond  256 :
+ GLU A 24.OE1 
+ GLU A 24.OE2 
+Distance :  2.198511 
+
+H_bond  257 :
+ PRO A 38.O 
+ HOH A 96.O 
+Distance :  2.83086 
+
+H_bond  258 :
+ PRO A 38.N 
+ ASP A 39.N 
+Distance :  2.8014514 
+
+H_bond  259 :
+ ASP A 39.OD1 
+ ASP A 39.OD2 
+Distance :  2.213212 
+
+H_bond  260 :
+ ASP A 39.O 
+ ASP A 39.OD1 
+Distance :  3.069824 
+
+H_bond  261 :
+ ARG A 74.NE 
+ ARG A 74.NH2 
+Distance :  2.3090339 
+
+H_bond  262 :
+ ASP A 39.N 
+ HOH A 80.O 
+Distance :  2.820976 
+
+H_bond  263 :
+ PRO A 38.N 
+ HOH A 80.O 
+Distance :  3.399404 
+
+H_bond  264 :
+ GLN A 31.OE1 
+ GLN A 31.NE2 
+Distance :  2.2652867 
+
+H_bond  265 :
+ PRO A 38.O 
+ ASP A 39.N 
+Distance :  2.2271347 
+
+H_bond  266 :
+ GLU A 24.OE1 
+ HOH A 102.O 
+Distance :  3.2947195 
+
+H_bond  267 :
+ GLU A 24.OE2 
+ HOH A 102.O 
+Distance :  3.399027 
+
+H_bond  268 :
+ ILE A 23.O 
+ GLU A 24.O 
+Distance :  3.419762 
+
+H_bond  269 :
+ ASP A 52.OD1 
+ HOH A 108.O 
+Distance :  2.5196943 
+
+H_bond  270 :
+ LYS A 27.NZ 
+ HOH A 96.O 
+Distance :  2.5787816 
+
+H_bond  271 :
+ ARG A 72.NH2 
+ HOH A 96.O 
+Distance :  3.3524597 
+
+H_bond  272 :
+ GLN A 41.O 
+ HOH A 96.O 
+Distance :  3.095318 
+
+H_bond  273 :
+ THR A 22.O 
+ ILE A 23.N 
+Distance :  2.3001778 
+
+H_bond  274 :
+ THR A 22.O 
+ GLU A 24.N 
+Distance :  3.39374 
+
+H_bond  275 :
+ ILE A 23.O 
+ VAL A 26.N 
+Distance :  3.229308 
+
+H_bond  276 :
+ ILE A 23.O 
+ LYS A 27.N 
+Distance :  2.9984655 
+
+H_bond  277 :
+ GLU A 24.N 
+ ASN A 25.N 
+Distance :  2.788518 
+
+H_bond  278 :
+ ILE A 23.O 
+ ASN A 25.N 
+Distance :  3.2770934 
+
+H_bond  279 :
+ GLU A 24.O 
+ LYS A 27.N 
+Distance :  3.3970003 
+
+H_bond  280 :
+ GLU A 24.O 
+ ASN A 25.N 
+Distance :  2.2561867 
+
+H_bond  281 :
+ GLU A 24.O 
+ ALA A 28.N 
+Distance :  3.088415 
+
+H_bond  282 :
+ GLN A 31.OE1 
+ HOH A 94.O 
+Distance :  3.47856 
+
+H_bond  283 :
+ THR A 14.O 
+ LEU A 15.N 
+Distance :  2.2502954 
+
+H_bond  284 :
+ THR A 14.O 
+ THR A 14.OG1 
+Distance :  2.6394098 
+
+H_bond  285 :
+ THR A 14.N 
+ THR A 14.O 
+Distance :  2.7867694 
+
+H_bond  286 :
+ THR A 14.N 
+ THR A 14.OG1 
+Distance :  2.7579422 
+
+H_bond  287 :
+ THR A 12.O 
+ ILE A 13.N 
+Distance :  2.3020554 
+
+H_bond  288 :
+ THR A 7.OG1 
+ THR A 9.OG1 
+Distance :  3.1867785 
+
+H_bond  289 :
+ THR A 12.N 
+ HOH A 90.O 
+Distance :  2.9931126 
+
+H_bond  290 :
+ LYS A 11.N 
+ THR A 12.N 
+Distance :  3.4911468 
+
+H_bond  291 :
+ HOH A 90.O 
+ HOH A 131.O 
+Distance :  3.3824313 
+
+H_bond  292 :
+ THR A 9.O 
+ LYS A 11.N 
+Distance :  3.420498 
+
+H_bond  293 :
+ THR A 9.O 
+ THR A 9.OG1 
+Distance :  3.0334942 
+
+H_bond  294 :
+ HOH A 114.O 
+ HOH A 122.O 
+Distance :  2.1491814 
+
+H_bond  295 :
+ THR A 12.N 
+ ILE A 13.N 
+Distance :  3.4738228 
+
+H_bond  296 :
+ THR A 12.N 
+ THR A 12.O 
+Distance :  2.7271132 
+
+H_bond  297 :
+ THR A 12.O 
+ HOH A 131.O 
+Distance :  2.6044796 
+
+H_bond  298 :
+ THR A 7.OG1 
+ LYS A 11.O 
+Distance :  3.0845568 
+
+H_bond  299 :
+ LYS A 11.O 
+ THR A 12.N 
+Distance :  2.2754166 
+
+H_bond  300 :
+ LYS A 11.N 
+ LYS A 11.O 
+Distance :  2.6748023 
+
+H_bond  301 :
+ LYS A 11.NZ 
+ HOH A 131.O 
+Distance :  2.9820356 
+
+H_bond  302 :
+ ILE A 30.O 
+ GLN A 31.N 
+Distance :  2.2385206 
+
+H_bond  303 :
+ GLN A 31.O 
+ LYS A 33.N 
+Distance :  3.1911016 
+
+H_bond  304 :
+ ASP A 32.O 
+ LYS A 33.N 
+Distance :  2.245592 
+
+H_bond  305 :
+ ILE A 30.O 
+ LYS A 33.N 
+Distance :  3.295415 
+
+H_bond  306 :
+ GLN A 31.O 
+ ASP A 32.O 
+Distance :  3.3359568 
+
+H_bond  307 :
+ ILE A 30.O 
+ GLN A 31.O 
+Distance :  3.306395 
+
+H_bond  308 :
+ GLU A 34.N 
+ GLY A 35.N 
+Distance :  2.715737 
+
+H_bond  309 :
+ LYS A 33.O 
+ GLU A 34.N 
+Distance :  2.2358067 
+
+H_bond  310 :
+ GLU A 34.O 
+ GLY A 35.N 
+Distance :  2.2451437 
+
+H_bond  311 :
+ LYS A 33.O 
+ HOH A 124.O 
+Distance :  3.4688241 
+
+H_bond  312 :
+ GLU A 34.O 
+ HOH A 117.O 
+Distance :  2.65118 
+
+H_bond  313 :
+ GLU A 34.OE1 
+ GLU A 34.OE2 
+Distance :  2.1995225 
+
+H_bond  314 :
+ HOH A 117.O 
+ HOH A 124.O 
+Distance :  3.491192 
+
+H_bond  315 :
+ LYS A 33.N 
+ GLU A 34.N 
+Distance :  2.928801 
+
+H_bond  316 :
+ GLN A 31.O 
+ GLY A 35.N 
+Distance :  2.7399545 
+
+H_bond  317 :
+ ILE A 30.O 
+ GLU A 34.N 
+Distance :  2.911456 
+
+H_bond  318 :
+ GLY A 35.N 
+ ILE A 36.N 
+Distance :  2.8045597 
+
+H_bond  319 :
+ GLU A 34.O 
+ ILE A 36.N 
+Distance :  3.4200182 
+
+H_bond  320 :
+ THR A 14.O 
+ LYS A 33.NZ 
+Distance :  3.4065228 
+
+H_bond  321 :
+ LYS A 11.NZ 
+ GLU A 34.OE2 
+Distance :  3.3466382 
+
+H_bond  322 :
+ GLN A 40.N 
+ GLN A 41.N 
+Distance :  2.7304363 
+
+H_bond  323 :
+ GLN A 40.O 
+ GLN A 41.N 
+Distance :  2.2339997 
+
+H_bond  324 :
+ ARG A 42.N 
+ VAL A 70.O 
+Distance :  2.8177543 
+
+H_bond  325 :
+ GLN A 40.O 
+ ARG A 72.N 
+Distance :  2.7214913 
+
+H_bond  326 :
+ ARG A 72.N 
+ ARG A 72.O 
+Distance :  2.961715 
+
+H_bond  327 :
+ LEU A 73.N 
+ LEU A 73.O 
+Distance :  2.7529428 
+
+H_bond  328 :
+ LEU A 71.N 
+ LEU A 71.O 
+Distance :  2.8256214 
+
+H_bond  329 :
+ LEU A 8.N 
+ HOH A 79.O 
+Distance :  2.7099879 
+
+H_bond  330 :
+ LEU A 8.N 
+ THR A 9.N 
+Distance :  2.722612 
+
+H_bond  331 :
+ ARG A 72.O 
+ LEU A 73.N 
+Distance :  2.2825587 
+
+H_bond  332 :
+ VAL A 70.N 
+ VAL A 70.O 
+Distance :  2.6559474 
+
+H_bond  333 :
+ VAL A 70.O 
+ LEU A 71.N 
+Distance :  2.2568984 
+
+H_bond  334 :
+ ARG A 72.N 
+ LEU A 73.N 
+Distance :  3.2275836 
+
+H_bond  335 :
+ LEU A 71.O 
+ ARG A 72.N 
+Distance :  2.2044103 
+
+H_bond  336 :
+ ILE A 36.O 
+ PRO A 37.O 
+Distance :  3.3442926 
+
+H_bond  337 :
+ PRO A 37.N 
+ PRO A 37.O 
+Distance :  2.8196888 
+
+H_bond  338 :
+ ILE A 36.O 
+ PRO A 37.N 
+Distance :  2.2529223 
+
+H_bond  339 :
+ GLY A 35.O 
+ PRO A 37.N 
+Distance :  3.4073582 
+
+H_bond  340 :
+ GLY A 35.O 
+ HOH A 105.O 
+Distance :  2.4694154 
+
+H_bond  341 :
+ ARG A 74.O 
+ GLY A 75.N 
+Distance :  2.2772768 
+
+H_bond  342 :
+ GLY A 75.N 
+ GLY A 76.N 
+Distance :  3.4861631 
+
+H_bond  343 :
+ GLY A 75.N 
+ GLY A 75.O 
+Distance :  3.0190132 
+
+H_bond  344 :
+ GLY A 75.O 
+ GLY A 76.N 
+Distance :  2.2629597 
+
+H_bond  345 :
+ GLY A 76.N 
+ GLY A 76.OXT 
+Distance :  2.7283144 
+
+H_bond  346 :
+ GLY A 76.N 
+ GLY A 76.O 
+Distance :  3.4629302 
+
+H_bond  347 :
+ GLY A 75.O 
+ HOH A 120.O 
+Distance :  2.9320242 
+
+H_bond  348 :
+ GLY A 76.O 
+ GLY A 76.OXT 
+Distance :  2.2229803 
+
+H_bond  349 :
+ GLN A 40.OE1 
+ GLN A 40.NE2 
+Distance :  2.255222 
+
+H_bond  350 :
+ ARG A 74.N 
+ ARG A 74.O 
+Distance :  3.1196115 
+
+H_bond  351 :
+ ARG A 74.N 
+ GLY A 75.N 
+Distance :  3.185972 
+
+H_bond  352 :
+ PRO A 37.O 
+ GLN A 40.N 
+Distance :  2.958031 
+
+H_bond  353 :
+ ILE A 36.O 
+ GLN A 41.NE2 
+Distance :  2.967169 
+
+H_bond  354 :
+ LEU A 73.O 
+ ARG A 74.N 
+Distance :  2.2754247 
+
+H_bond  355 :
+ LEU A 73.O 
+ GLY A 75.N 
+Distance :  3.4907382 
+
+H_bond  356 :
+ THR A 7.OG1 
+ LEU A 8.N 
+Distance :  3.2484596 
+
+H_bond  357 :
+ THR A 7.OG1 
+ THR A 9.N 
+Distance :  3.2614996 
+
+H_bond  358 :
+ THR A 9.N 
+ THR A 9.OG1 
+Distance :  2.8310418 
+
+H_bond  359 :
+ ILE A 36.N 
+ ILE A 36.O 
+Distance :  2.9329243 
+
+H_bond  360 :
+ ILE A 36.N 
+ PRO A 37.N 
+Distance :  3.488888 
+
+H_bond  361 :
+ GLY A 35.O 
+ ILE A 36.N 
+Distance :  2.2766545 
+
+H_bond  362 :
+ ALA A 28.O 
+ GLN A 31.N 
+Distance :  3.2211537 
+
+H_bond  363 :
+ LYS A 27.O 
+ GLN A 31.N 
+Distance :  2.9259512 
+
+H_bond  364 :
+ ILE A 30.N 
+ GLN A 31.N 
+Distance :  2.7368267 
+
+H_bond  365 :
+ LYS A 29.O 
+ GLN A 31.N 
+Distance :  3.4575388 
+
+H_bond  366 :
+ GLN A 31.N 
+ ASP A 32.N 
+Distance :  2.7776382 
+
+H_bond  367 :
+ LYS A 29.O 
+ LYS A 33.N 
+Distance :  2.90949 
+
+H_bond  368 :
+ ASP A 32.N 
+ LYS A 33.N 
+Distance :  2.839205 
+
+H_bond  369 :
+ GLN A 31.O 
+ ASP A 32.N 
+Distance :  2.2296479 
+
+H_bond  370 :
+ LYS A 29.O 
+ ILE A 30.O 
+Distance :  3.4713318 
+
+H_bond  371 :
+ ILE A 30.O 
+ ASP A 32.N 
+Distance :  3.4719546 
+
+H_bond  372 :
+ LYS A 27.O 
+ GLN A 41.NE2 
+Distance :  3.0437915 
+
+H_bond  373 :
+ GLN A 41.OE1 
+ GLN A 41.NE2 
+Distance :  2.2266066 
+
+H_bond  374 :
+ ARG A 72.NE 
+ ARG A 72.NH1 
+Distance :  2.2883556 
+
+H_bond  375 :
+ ARG A 72.NE 
+ ARG A 72.NH2 
+Distance :  2.2841263 
+
+H_bond  376 :
+ GLN A 41.N 
+ GLN A 41.O 
+Distance :  3.0642323 
+
+H_bond  377 :
+ GLN A 41.O 
+ ARG A 42.N 
+Distance :  2.2153482 
+
+H_bond  378 :
+ PRO A 38.O 
+ GLN A 40.N 
+Distance :  3.097703 
+
+H_bond  379 :
+ PRO A 38.O 
+ GLN A 41.N 
+Distance :  3.1089194 
+
+H_bond  380 :
+ ASP A 39.O 
+ ARG A 72.NE 
+Distance :  3.163992 
+
+H_bond  381 :
+ ASP A 39.N 
+ GLN A 40.N 
+Distance :  2.708563 
+
+H_bond  382 :
+ ASP A 39.O 
+ GLN A 40.N 
+Distance :  2.245199 
+
+H_bond  383 :
+ ASP A 39.OD1 
+ GLN A 40.N 
+Distance :  3.1729376 
+
+H_bond  384 :
+ GLN A 31.NE2 
+ HOH A 77.O 
+Distance :  3.3423073 
+
+H_bond  385 :
+ ARG A 74.NH1 
+ ARG A 74.NH2 
+Distance :  2.3003852 
+
+H_bond  386 :
+ ARG A 74.NE 
+ ARG A 74.NH1 
+Distance :  2.3237948 
+
+H_bond  387 :
+ PRO A 37.O 
+ ASP A 39.N 
+Distance :  3.0955205 
+
+H_bond  388 :
+ PRO A 37.O 
+ PRO A 38.N 
+Distance :  2.2566874 
+
+H_bond  389 :
+ ILE A 36.O 
+ PRO A 38.N 
+Distance :  3.4517357 
+
+H_bond  390 :
+ GLN A 31.NE2 
+ HOH A 105.O 
+Distance :  3.137615 
+
+H_bond  391 :
+ HOH A 85.O 
+ HOH A 119.O 
+Distance :  3.2816885 
+
+H_bond  392 :
+ SER A 20.OG 
+ HOH A 127.O 
+Distance :  2.919346 
+
+H_bond  393 :
+ ASP A 21.N 
+ ASP A 21.OD1 
+Distance :  3.2951841 
+
+H_bond  394 :
+ GLU A 18.O 
+ ASP A 21.OD2 
+Distance :  3.488405 
+
+H_bond  395 :
+ GLU A 18.N 
+ ASP A 21.OD2 
+Distance :  3.0796888 
+
+H_bond  396 :
+ VAL A 17.N 
+ VAL A 17.O 
+Distance :  2.745651 
+
+H_bond  397 :
+ MET A 1.O 
+ VAL A 17.N 
+Distance :  2.8534958 
+
+H_bond  398 :
+ ASP A 21.O 
+ THR A 22.N 
+Distance :  2.259632 
+
+H_bond  399 :
+ GLY A 53.O 
+ ARG A 54.N 
+Distance :  2.2343311 
+
+H_bond  400 :
+ GLY A 53.N 
+ ARG A 54.N 
+Distance :  2.7997215 
+
+H_bond  401 :
+ GLU A 51.OE1 
+ HOH A 125.O 
+Distance :  3.4932127 
+
+H_bond  402 :
+ ILE A 23.N 
+ ARG A 54.O 
+Distance :  2.8629022 
+
+H_bond  403 :
+ GLU A 51.O 
+ GLY A 53.N 
+Distance :  3.2564 
+
+H_bond  404 :
+ GLU A 51.O 
+ ASP A 52.N 
+Distance :  2.2111306 
+
+H_bond  405 :
+ LEU A 50.O 
+ HOH A 104.O 
+Distance :  2.757542 
+
+H_bond  406 :
+ LEU A 15.O 
+ GLU A 16.N 
+Distance :  2.289828 
+
+H_bond  407 :
+ LEU A 43.N 
+ HOH A 104.O 
+Distance :  2.9049091 
+
+H_bond  408 :
+ LEU A 15.N 
+ LEU A 15.O 
+Distance :  2.603914 
+
+H_bond  409 :
+ ILE A 3.O 
+ LEU A 15.N 
+Distance :  3.0458443 
+
+H_bond  410 :
+ ILE A 13.O 
+ THR A 14.N 
+Distance :  2.2400968 
+
+H_bond  411 :
+ ILE A 13.N 
+ ILE A 13.O 
+Distance :  2.7297494 
+
+H_bond  412 :
+ VAL A 5.O 
+ ILE A 13.N 
+Distance :  2.7208261 
+
+H_bond  413 :
+ THR A 12.N 
+ THR A 12.OG1 
+Distance :  2.950126 
+
+H_bond  414 :
+ GLY A 10.O 
+ LYS A 11.N 
+Distance :  2.253027 
+
+H_bond  415 :
+ THR A 7.N 
+ LYS A 11.O 
+Distance :  2.910433 
+
+H_bond  416 :
+ THR A 7.N 
+ THR A 7.OG1 
+Distance :  2.970106 
+
+H_bond  417 :
+ THR A 7.O 
+ THR A 7.OG1 
+Distance :  3.0823448 
+
+H_bond  418 :
+ GLY A 10.N 
+ LYS A 11.N 
+Distance :  2.7429113 
+
+H_bond  419 :
+ THR A 9.O 
+ GLY A 10.N 
+Distance :  2.2031765 
+
+H_bond  420 :
+ ARG A 42.N 
+ LEU A 43.N 
+Distance :  3.379384 
+
+H_bond  421 :
+ ARG A 42.N 
+ ARG A 42.O 
+Distance :  2.8114908 
+
+H_bond  422 :
+ ARG A 42.O 
+ VAL A 70.O 
+Distance :  3.2618694 
+
+H_bond  423 :
+ ARG A 42.O 
+ VAL A 70.N 
+Distance :  2.8118775 
+
+H_bond  424 :
+ LEU A 69.N 
+ VAL A 70.N 
+Distance :  3.4023829 
+
+H_bond  425 :
+ LEU A 69.O 
+ VAL A 70.N 
+Distance :  2.2602546 
+
+H_bond  426 :
+ LEU A 69.O 
+ HOH A 79.O 
+Distance :  2.826102 
+
+H_bond  427 :
+ THR A 7.O 
+ LEU A 8.N 
+Distance :  2.2513618 
+
+H_bond  428 :
+ THR A 7.O 
+ THR A 9.N 
+Distance :  3.1472583 
+
+H_bond  429 :
+ LEU A 8.O 
+ THR A 9.N 
+Distance :  2.2753572 
+
+H_bond  430 :
+ THR A 9.N 
+ GLY A 10.N 
+Distance :  2.700383 
+

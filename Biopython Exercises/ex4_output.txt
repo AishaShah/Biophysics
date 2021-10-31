@@ -1,0 +1,7 @@
+PDB: 1ubq.pdb Name of residue: ARG 
+
+list of all CA atoms of all available ARG residues with coordinates : 
+ARG A 42.CA [31.2   30.329 22.78 ]
+ARG A 54.CA [28.108 17.439 18.276]
+ARG A 72.CA [35.161 34.174 26.896]
+ARG A 74.CA [40.873 33.802 30.253]

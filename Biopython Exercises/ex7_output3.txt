@@ -1,0 +1,4 @@
+PDB: 2ki5.pdb 
+Chain_1 A , res 1: 367 
+Chain_2 B , res 2: 30
+Residue Number 30 not available in chain B

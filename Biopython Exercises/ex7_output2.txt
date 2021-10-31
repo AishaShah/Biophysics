@@ -1,0 +1,5 @@
+PDB: 1ubq.pdb 
+Chain_1 A , res 1: 20 
+Chain_2 B , res 2: 30
+Chains in this structure are :  A
+Please provide the correct chains
