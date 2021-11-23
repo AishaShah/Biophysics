@@ -1,5 +1,6 @@
 from OUR_basic_setup import*
 import math
+from math import np
 
 
 def residue_id(res):  # residue as ASP A32
@@ -103,6 +104,14 @@ def electrostatics(atom1, atom2):
 
     return 'ENERGY'
 
+
+def calc_elec_int2(at1, at2):
+    dist = at2-at1
+    Mehler_dielectric = ((86.9525)/(1 - 7.7839*math.exp(-0.3153*dist)))-8.85525
+    E = 332.16*((at1.xtra['charge'] * at2.xtra['charge']) /
+                (Mehler_dielectric*dist))
+    return E
+
 ####################################
 #### VanderWaal Energies        ####
 ####################################
@@ -135,6 +144,23 @@ def vdw_energy(epsilon_i, sigma_i, epsilon_j, sigma_j, rij):
     t2 = (Ci*Cj)/pow(rij, 6)
     vdw_E = t1-t2
     return vdw_E
+
+# maybe the one below is right , but do you remeber in class he advised us to use
+# formula having A and C? and he said we have to calculate A and C for pairs
+# and we can use the same again and again whenever we get the same pair?
+
+
+def vdw_energy(at1, at2):
+    vdw = 0
+    r = at2-at1
+    eps1 = at1.xtra['vdw'].eps
+    sig1 = at1.xtra['vdw'].sig
+    eps2 = at2.xtra['vdw'].eps
+    sig2 = at2.xtra['vdw'].sig
+    epsilon = np.sqrt(eps1 * eps2)
+    sigma = np.sqrt(sig1 * sig2)
+    vdw += 4*epsilon*((sigma/r)**12 - (sigma/r)**6)
+    return vdw
 
 
 ####################################
