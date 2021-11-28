@@ -16,26 +16,24 @@ Energy_list = {}
 resA = list(resA)
 resE = list(resE)
 for i in range(len(resA)):
-    print('')
-    print('Energy by mutating index', i, residue_id(resA[i]), end=' ')
+
     Energy_After_Mutation = Energy_mutation_chainA(resA, resE, i)
-    print(Energy_After_Mutation)
+
     id = resA[i].get_id()[1]
     Energy_list[id] = [residue_id(resA[i]), Energy_After_Mutation]
 
 
 for j in range(len(resE)):
-    print('')
-    print('Energy by mutating index', j, residue_id(resE[j]), end=' ')
+
     Energy_After_Mutation = Energy_mutation_chainB(resA, resE, j)
-    print(Energy_After_Mutation)
+
     id = resE[j].get_id()[1]
     Energy_list[id] = [residue_id(resE[j]), Energy_After_Mutation]
 
 energies_for_plotting = []
 for res in sorted(Energy_list):
     energies_for_plotting.append(Energy_list[res][1]-E)
-print(energies_for_plotting)
+
 
 # mutated residue , change in energy
 data = []

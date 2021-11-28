@@ -1,4 +1,4 @@
-from OUR_basic_setup import*
+from OUR_basic_setup_good import*
 import math
 import numpy as np
 
@@ -137,6 +137,11 @@ def Total_interaction_Energies(resA, resE):
             sol_AB += solv_energy_one_atom(atom, st)
             sol_B += solv_energy_one_atom(atom, st_B)
     delta_G = electr_inter + vdw + sol_AB - sol_A - sol_B
+    print('electrostatic:', electr_inter)
+    print('energy vdw:', vdw)
+    print('solvation AB:', sol_AB)
+    print('solvation A:', sol_A)
+    print('solvation B:', sol_B)
     return delta_G
 
 
