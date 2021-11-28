@@ -1,0 +1,30 @@
+
+
+  residue ID  Residue Name        ΔGAB         ΔΔG
+------------  --------------  --------  ----------
+for alpha
+          34  HIE.A34         -64.2555  -17.2526
+         492  Not present in interface for cutoff of 5 A
+         493  GLN.B493        -62.3749  -15.372
+         494  SER.B494        -46.5163    0.486564
+
+
+
+for beta
+	  34  HIE.A34         -71.0211   3.28619
+	 492  LEU.B492        -74.1498   0.157489
+	 494  not present in interface for cutoff 5 A
+	 493  GLN.B493        -74.731   -0.423789
+
+for 6m0j
+	  34  HIE.A34         -72.1567   0.0758266
+	 492  not present in interface for cutoff 5
+	 493  GLN.E493        -70.8016   1.43091
+	 494  not present for cutoff 5 A
+
+for cutoff 8 in 6m0j
+	  34  HIE.A34         -83.7385   0.0894895
+	 492  LEU.E492        -83.4914   0.33656
+	 493  GLN.E493        -82.0684   1.75958
+	 494  SER.E494        -83.6453   0.182607
+	
