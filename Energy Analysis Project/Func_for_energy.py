@@ -1,4 +1,4 @@
-from OUR_basic_setup_good import*
+from OUR_basic_setup import*
 import math
 import numpy as np
 
